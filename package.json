@@ -35,7 +35,7 @@
     "ts-jest": "^23.0.1"
   },
   "dependencies": {
-    "oidc-client": "^1.5.2",
+    "oidc-client": "asidorov01/oidc-client-js#dot-falcon-1.10.1",
     "typescript": "^2.9.2"
   }
 }
